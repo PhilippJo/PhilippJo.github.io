@@ -9,11 +9,12 @@ margin-left: 20px;
 
 #underConstruction {
 color: red;
-font-family: bold;
-text-size: 200%;
+font-weight: bold;
+font-size: 200%;
 }
 
 #imgUnderConstruction {
-border: 2px;
-padding: 2px;
+border: 2px grey;
+width: 90%;
+margin: 2px;
 }
