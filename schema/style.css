@@ -1,0 +1,20 @@
+body {
+background-color: lightgrey;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;
+} 
+
+#underConstruction {
+color: red;
+font-weight: bold;
+font-size: 200%;
+}
+
+#imgUnderConstruction {
+border: 2px grey;
+width: 90%;
+margin: 2px;
+}
